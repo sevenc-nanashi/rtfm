@@ -15,3 +15,5 @@ gem "nokogiri", "~> 1.13"
 gem "http", "~> 5.0"
 
 gem "rsplit", "~> 0.1.3"
+
+ruby ">= 3.0.0"
